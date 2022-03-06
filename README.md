@@ -18,3 +18,9 @@ _A viewer that displays all results received from the Contact Tracer App._
 
 - ⏰ [7-Segment Clock](https://github.com/benedictfernando/oop-sevenSegmentClock):
 _A clock that displays time~ 7-segment's style._
+
+- 📄 [C# Resume Creator](https://github.com/benedictfernando/oop-resumeCreator):
+_A resume builder for job applicants._
+
+- 🖨 [QR Code](https://github.com/benedictfernando/oop-qrCode): 
+_A scanner that accepts QR Code as input, then hatches a .txt version of it as output._
